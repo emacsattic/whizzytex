@@ -1,0 +1,2 @@
+AUTORECOMPILE=false
+AUTOCOMPILE=false
